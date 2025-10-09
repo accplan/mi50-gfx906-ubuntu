@@ -6,7 +6,7 @@ Instructions can be found in this issue: https://github.com/ROCm/ROCm/issues/462
 - Just for anyone who won't be able to build from source. I think it is possible to take TensileLibrary_lazy_gfx906.dat from this package: https://archlinux.org/packages/extra/x86_64/rocblas/
   Download it and extract.
 
-- Someone managed to run ComfyUI with ROCm. Just need to copy TensileLibrary to pytorch package folder inside local virtualenv dir https://www.reddit.com/r/linux4noobs/comments/1ly8rq6/comment/nd7f2iw/
+- Someone managed to run ComfyUI with ROCm 6.4.3. Just need to copy TensileLibrary to pytorch package folder inside local virtualenv dir https://www.reddit.com/r/linux4noobs/comments/1ly8rq6/comment/nd7f2iw/
 
 ## Tensile
 1. git clone https://github.com/ROCmSoftwarePlatform/Tensile.git
