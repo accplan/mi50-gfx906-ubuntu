@@ -22,3 +22,6 @@ Instructions can be found in this issue: https://github.com/ROCm/ROCm/issues/462
 
 ## Kokoro-TTS for gfx906
 https://github.com/kprinssu/Kokoro-FastAPI/tree/rocm-release
+
+## Other
+This works with triton-gfx906 fork: https://github.com/AuleTechnologies/Aule-Attention
